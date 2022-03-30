@@ -4,7 +4,7 @@ My name is Pongsawad Janjinda. <br />
 I'm a software engineer who interested in web technology from thailand. 🥳
 
 - 🔭 I’m currently working on : Web-based technology applications
-- 🌱 I’m currently learning : Micro-Frontend Architecture
+- 🌱 I’m currently learning : Micro-Frontend Architecture, Qt
 - 📫 How to reach me : pongwad.dev@gmail.com
 
 
@@ -22,6 +22,7 @@ Frontend:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nativescript/nativescript.png"></code>
 
 Backend:
